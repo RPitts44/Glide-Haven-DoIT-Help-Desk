@@ -29,7 +29,7 @@ As a ServiceNow Performance Analytics Implementation Specialist, I guide the DoI
 The GlideHaven's DoIT team is using ServiceNow's Incident Management application to support the Civic Service apps and respond to any associated unplanned events, service interruptions, and general requests for assistance and information. 
 
 
-Implementation Schedule:
+*** Performance Analytics Implementation Schedule ***
 Step 1: Plan and Prepare
 - Define measurements to assess and drive goal attainment:
 - Identify the business processes Glide Haven wants to measure and improve
