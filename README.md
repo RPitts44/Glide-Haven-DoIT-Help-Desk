@@ -9,7 +9,7 @@ Why ServiceNow Performance Analytics?
 ServiceNow Performance Analytics allows you to use real-time native analytics to drive greater visibility, alignment, and accountability across the business. ServiceNow Performance Analytics provides out-of-the-box KPIs and dashboards precisely tuned to cross-enterprise visual workflows to provide greater insight into real time patterns and trends so you can make better, faster decisions. Like GPS, Performance Analytics gives you access to the best available route based on accurate traffic information and hazards. Performance Analytics gives you accurate real-time insight into all areas of service performance across the Now platform so you can easily identify roadblocks and opportunities for improvement.
 
 
-* Problem:
+** Problem:
 - Process Owners work with static metrics stored in PowerPoint decks and Excel spreadsheets
 - The current dashboards are overloaded with reports that do not provide decision-making guidance
 - The current reports lack historical context and are often not trusted by stakeholders
